@@ -1,7 +1,7 @@
 === TomParis YouTube Widget ===
 Contributors: TomParis
 Donate link: https://www.paypal.me/tomparis/
-Tags: youtube, api, widget, tomparis
+Tags: youtube, api, widget, tomparis, tomparisde, youtube widget
 Requires at least: 3.5.1
 Tested up to: 4.7.4
 Stable tag: 1.0.0
