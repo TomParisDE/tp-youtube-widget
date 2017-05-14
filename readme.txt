@@ -1,10 +1,10 @@
-=== TomParis YouTube Widget ===
-Contributors: TomParis
+=== TP YouTube Widget ===
+Contributors: TomParisDE, flowdee
 Donate link: https://www.paypal.me/tomparis/
 Tags: youtube, api, widget, tomparis, tomparisde, youtube widget
 Requires at least: 3.5.1
 Tested up to: 4.7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -75,10 +75,16 @@ Yes of course.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Updated core files
+
+= 1.0.0 =
 * Initial release
 
 == Upgrade Notice ==
 
-= 1.0 =
-Initial release
+= 1.0.1 =
+* Updated core files
+
+= 1.0.0 =
+* Initial release
