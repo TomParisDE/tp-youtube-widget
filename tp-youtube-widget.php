@@ -2,7 +2,7 @@
 /*
 Plugin Name: TP YouTube Widget
 Description: Your YouTube Widget for Statistics, Banner and More!
-Version: 1.0.1
+Version: 1.0.2
 Plugin URI: http://coder.tomparis.de/youtube-widget-for-wordpress/
 Author: Florian 'TomParis' Kirchner
 Author URI: http://coder.tomparis.de/
@@ -60,7 +60,7 @@ if( !class_exists( 'TP_YTW' ) ) {
                 private function setup_constants() {
 
                         // Plugin version
-                        define( 'TP_YTW_VER', '1.0.1' );
+                        define( 'TP_YTW_VER', '1.0.2' );
 
                         // Plugin path
                         define( 'TP_YTW_DIR', plugin_dir_path( __FILE__ ) );
