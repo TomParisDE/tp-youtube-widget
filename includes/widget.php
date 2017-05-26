@@ -11,8 +11,8 @@ class TP_YTW_Widget extends WP_Widget {
     function __construct() {
         parent::__construct(
             'tp_ytw_widget', // Base ID
-            __( 'TomParis YouTube Widget', 'tp-ytw' ), // Name
-            array( 'description' => __( 'Your YouTube Widget for Statistics, Banner and More!', 'tp-ytw' ), ) // Args
+            __( 'TomParisDE YouTube Widget', 'tp-ytw' ), // Name
+            array( 'description' => __( 'Your TomParisDE YouTube Widget for Statistics, Banner and More!', 'tp-ytw' ), ) // Args
         );
     }
 

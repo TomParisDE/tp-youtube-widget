@@ -1,18 +1,18 @@
-=== TP YouTube Widget ===
+=== TomParisDE YouTube Widget ===
 Contributors: TomParisDE
 Donate link: https://www.paypal.me/tomparis/
 Tags: youtube, api, widget, tomparis, tomparisde, youtube widget
 Requires at least: 3.5.1
-Tested up to: 4.7.4
+Tested up to: 4.7.5
 Stable tag: 1.0.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Your YouTube Widget for Statistics, Banner and More!
+Your TomParisDE YouTube Widget for Statistics, Banner and More!
 
 == Description ==
 
-The TomParis YouTube Widget for WordPress plugin allows you to display your videos, subscribers and views by simply pasting your Channel ID and your YouTube Data API Key.
+The TomParisDE YouTube Widget for WordPress plugin allows you to display your videos, subscribers and views by simply pasting your Channel ID and your YouTube Data API Key.
 
 = Features =
 

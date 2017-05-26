@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: TP YouTube Widget
-Description: Your YouTube Widget for Statistics, Banner and More!
+Plugin Name: TomParisDE YouTube Widget
+Description: Your TomParisDE YouTube Widget for Statistics, Banner and More!
 Version: 1.0.2
-Plugin URI: http://coder.tomparis.de/youtube-widget-for-wordpress/
-Author: Florian 'TomParis' Kirchner
+Plugin URI: http://coder.tomparis.de/wordpress-youtube-plugin/
+Author: Florian 'TomParisDE' Kirchner
 Author URI: http://coder.tomparis.de/
 Text Domain: tp-ytw
 Domain Path: /languages

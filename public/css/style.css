@@ -112,6 +112,12 @@ img.tp-ytw-banner {
     list-style: none;
     margin: 0px;
     margin-top: -10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.widget_tp_ytw_widget .tp-ytw-latest-video-ul:last-child {
+    padding-bottom: 10px;
 }
 
 .widget_tp_ytw_widget .tp-ytw-banner-bottom {
